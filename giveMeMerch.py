@@ -39,7 +39,7 @@ def main():
             #Compile Message
             msg['From'] = config.MY_ADDR
             msg['To'] = email
-            msg['Subject'] = f"{college} Admissions and Scholarship Information"
+            msg['Subject'] = f"{college} Admissions and Scholarship Information" #CHANGE THIS. THIS IS THE SUBJECT HEADER.
 
             #Attach body from template and send email
             msg.attach(MIMEText(message, 'plain'))
