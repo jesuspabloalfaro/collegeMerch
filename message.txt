@@ -1,0 +1,6 @@
+Hi ${COLLEGE_NAME},
+
+My name is (Random Dudes Name) and I am super excited to about more information from ${COLLEGE_NAME}.
+
+Best, 
+Random Dude
